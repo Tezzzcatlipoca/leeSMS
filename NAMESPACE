@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(RODBC,sqlQuery)
+importFrom(RODBC,odbcConnect)
+importFrom(RODBC,odbcClose)
+importFrom("utils", "write.csv")

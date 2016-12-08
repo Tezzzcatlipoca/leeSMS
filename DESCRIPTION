@@ -1,0 +1,12 @@
+Package: leeSMS
+Type: Package
+Title: Paquete para leer informacion de SMS de Retail y Scan
+Version: 1.0.0
+Author: Roberto Franco
+Maintainer: Roberto Franco <roberto.franco@nielsen.com>
+Description: El paquete contiene 15 funciones para facilitar el acceso a registros
+          de SMS para Retail y para Scan.
+License: GPL-2 | GPL-3
+LazyData: TRUE
+Depends:
+     RODBC
